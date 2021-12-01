@@ -5,7 +5,7 @@
 Group:   System/Libraries
 Summary: Osinfo database files
 Name: osinfo-db
-Version:	20210312
+Version:	20211013
 Release:	1
 License: LGPLv2+
 Source0: https://releases.pagure.org/libosinfo/%{name}-%{version}.tar.xz
