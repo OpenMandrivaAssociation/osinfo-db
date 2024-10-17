@@ -10,7 +10,7 @@ Release:	1
 License: LGPLv2+
 Source0: https://releases.pagure.org/libosinfo/%{name}-%{version}.tar.xz
 Source1: https://releases.pagure.org/libosinfo/%{name}-%{version}.tar.xz.asc
-URL: http://libosinfo.org/
+URL: https://libosinfo.org/
 BuildRequires: intltool
 BuildRequires: osinfo-db-tools
 BuildArch: noarch
